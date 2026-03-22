@@ -30,9 +30,16 @@ o The core strength of this project is the ETL Pipeline:
 ## 🖼️ Dashboard Preview
 
 ### ⚙ Web Source Extraction Process
-![web_source1](https://github.com/sanchit-2511/Anime-Web-Analytics/blob/7b04d9e71c973933d40a3c64a5a86ea2e1ddf7b1/Web%20Source%20Extraction./Screenshot%20(52).png)
 
-![web_source2](https://github.com/sanchit-2511/Anime-Web-Analytics/blob/7b04d9e71c973933d40a3c64a5a86ea2e1ddf7b1/Web%20Source%20Extraction./Screenshot%20(56).png)
+![web_source1](https://github.com/sanchit-2511/Anime-Web-Analytics/blob/7b04d9e71c973933d40a3c64a5a86ea2e1ddf7b1/Web%20Source%20Extraction./Screenshot%20(40).png)
+
+![web_source2](https://github.com/sanchit-2511/Anime-Web-Analytics/blob/7b04d9e71c973933d40a3c64a5a86ea2e1ddf7b1/Web%20Source%20Extraction./Screenshot%20(45).png)
+
+![web_source3](https://github.com/sanchit-2511/Anime-Web-Analytics/blob/7b04d9e71c973933d40a3c64a5a86ea2e1ddf7b1/Web%20Source%20Extraction./Screenshot%20(50).png)
+
+![web_source4](https://github.com/sanchit-2511/Anime-Web-Analytics/blob/7b04d9e71c973933d40a3c64a5a86ea2e1ddf7b1/Web%20Source%20Extraction./Screenshot%20(52).png)
+
+![web_source5](https://github.com/sanchit-2511/Anime-Web-Analytics/blob/7b04d9e71c973933d40a3c64a5a86ea2e1ddf7b1/Web%20Source%20Extraction./Screenshot%20(56).png)
 
 If want to know more about Web Source fetching of data, visit Anime-Web-Analysis/Web Source Extraction folder.
 
