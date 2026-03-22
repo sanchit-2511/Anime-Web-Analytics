@@ -31,7 +31,7 @@ o The core strength of this project is the ETL Pipeline:
 
 ### ⚙ Web Source Extraction Process
 
-![web_source1](https://github.com/sanchit-2511/Anime-Web-Analytics/blob/7b04d9e71c973933d40a3c64a5a86ea2e1ddf7b1/Web%20Source%20Extraction./Screenshot%20(40).png)
+![web_source1](https://github.com/sanchit-2511/Anime-Web-Analytics/blob/7b04d9e71c973933d40a3c64a5a86ea2e1ddf7b1/Web%20Source%20Extraction./Screenshot%20(44).png)
 
 ![web_source2](https://github.com/sanchit-2511/Anime-Web-Analytics/blob/7b04d9e71c973933d40a3c64a5a86ea2e1ddf7b1/Web%20Source%20Extraction./Screenshot%20(45).png)
 
